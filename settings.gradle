@@ -1,0 +1,3 @@
+include ':cloglibrary'
+include ':app'
+rootProject.name = "ClogKotlin"
